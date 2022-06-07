@@ -2,4 +2,8 @@
 세번째
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> b08cf93 (기능 1 추가)
